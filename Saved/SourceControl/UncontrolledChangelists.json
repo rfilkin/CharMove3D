@@ -43,6 +43,8 @@
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/BP_SpawnPoint.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/BP_GameModeBase.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/BP_KillPlane.uasset",
+				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/WB_PauseMenu.uasset",
+				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Input/Actions/IA_PauseGame.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Assets/Materials/norm_normal_normals_Genius_copy_tga.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Assets/Materials/texGlider.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Assets/Materials/texGliderS_tga.uasset",
