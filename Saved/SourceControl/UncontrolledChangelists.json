@@ -326,6 +326,8 @@
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/Level_scripts/BP_scene1script.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/Level_scripts/BPI_LevelEvents.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/Level_Pieces/BP_DummyNose.uasset",
+				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/Level_scripts/BP_TargetPointEnemySpawn.uasset",
+				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/Level_scripts/BP_TargetPointActorSpawn.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Blueprints/Level_scripts/BPI_GameModeEventSelector.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Input/Actions/IA_PunchHeavy.uasset",
 				"C:/Users/rfilk/Desktop/gamegen repos/CharMove3D/Content/Input/Actions/IA_Kick1.uasset",
