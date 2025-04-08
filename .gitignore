@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # unused imports
 Content/imported_stuff/HumanVocalizations/*
+Content/HumanVocalizations/*
