@@ -76,3 +76,6 @@ DerivedDataCache/*
 # unused imports
 Content/imported_stuff/HumanVocalizations/*
 Content/HumanVocalizations/*
+/Saved/Logs
+/Saved/Config
+/Intermediate
