@@ -79,3 +79,6 @@ Content/HumanVocalizations/*
 /Saved/Logs
 /Saved/Config
 /Intermediate
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/CharMove3D.log
